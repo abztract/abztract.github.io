@@ -1,0 +1,109 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Lato', sans-serif;
+}
+
+.h-stripe{
+	width: 100vw;
+	height: 20vh;
+	background: url('../media/venuestripe.jpeg');
+	background-size: cover;
+}
+
+.h-content{
+	width: 100vw;
+	height: 8vh;
+	background: #000000;
+	padding: 1vh 0;
+}
+
+.ls-logo{
+	width: 3.3em;
+	height: 3.3em;
+	margin: 0em 1em 0em 2em;
+	float: left;
+}
+
+.home-link h1{
+	font-size: 2.6em;
+	color: #FFFFFF;
+	/*font-family: 'Lato', sans-serif;*/
+}
+
+.mca{
+	width: 100vw;
+	background: #5F8A98;
+	border-top: .001px solid #2A2B2D;
+}
+
+.mca-main{
+	width: 55vw;
+	display: inline-block;
+	float: left;
+}
+
+.latest-episode{
+	width: 50vw;
+	margin: 3em auto 2em auto;
+}
+
+.show-promo{
+	width: 45vw;
+	height: 45vh;
+	margin: 2em auto 3em auto;
+	border-radius: 2px;
+}
+
+.about{
+	width: 40vw;
+	margin: 0 auto;
+}
+
+.abt-head{
+	font-size: 2em;
+	margin: .5em .5em .5em 2em;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.about p{
+	font-size: 1.4em;
+}
+
+.contact{
+	width: 40vw;
+	text-align: center;
+	margin: 1em auto;
+}
+
+.imgblk{
+	width: 15vw;
+	margin: 0 auto;
+	display: block;
+}
+
+.soc-med{
+	width: 3em;
+	height: 3em;
+	margin: 2.5em auto 0 auto;
+}
+
+.sidebar{
+	width: 35vw;
+	padding: 4.5em 0 0 4em;
+	/*border-left: .001px solid #2A2B2D;*/
+	display: inline-block;
+}
+
+.footer{
+	width: 100vw;
+	height: 10vh;
+	border-top: .001px solid #2A2B2D;
+	background: #000000;
+	text-align: center;
+}
+
+.footer p{
+	color: #EFEFEC;
+	margin: 1em 0;
+}

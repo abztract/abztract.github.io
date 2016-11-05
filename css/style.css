@@ -64,14 +64,19 @@
 }
 
 .about{
-	width: 40vw;
-	margin: 0 auto;
+	width: 38vw;
+	margin: 6em auto 1em auto;
+	padding: 1em;
+	background: RGBA(255, 252, 242, .85);
+	border: 3px solid #0D668D;
+	border-radius: 2px;
 }
 
 .abt-head{
 	font-size: 2em;
 	margin: .5em .5em .5em 2em;
 	font-family: 'Montserrat', sans-serif;
+	border-bottom: 1.5px solid #E4572E;
 }
 
 .about p{
@@ -99,7 +104,6 @@
 .sidebar{
 	width: 35vw;
 	padding: 4.5em 0 0 4em;
-	/*border-left: .001px solid #2A2B2D;*/
 	display: inline-block;
 }
 

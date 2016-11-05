@@ -115,3 +115,11 @@
 	color: #EFEFEC;
 	margin: 1em 0;
 }
+
+
+@media and (max-width: 600px){
+	.show-promo{
+		height: 45vh;
+	}
+
+}

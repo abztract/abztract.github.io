@@ -53,13 +53,13 @@
 
 .latest-episode{
 	width: 50vw;
-	height: 50vh;
+	height: 23em;
 	margin: 3em auto 2em auto;
 }
 
 .show-promo{
 	width: 45vw;
-	height: 53vh;
+	height: 23.5em;
 	margin: 2em auto 3em auto;
 	border-radius: 2px;
 }

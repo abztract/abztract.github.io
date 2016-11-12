@@ -60,15 +60,20 @@
 .show-promo{
 	width: 45vw;
 	height: 23.5em;
-	margin: 2em auto 3em auto;
+	margin: 2em auto 4	em auto;
 	border-radius: 2px;
 }
 
 .show-credit{
 	width: 50vw;
-	margin: 5em auto;
+	margin: 2.5em auto 2em auto;
 	border: 2px solid RGBA(42, 43, 45, 1.00);
 	border-radius: 3px;
+}
+
+.ep2-sc-head{
+	background-image: url('../media/ep2sc.jpg');
+	background-size: cover;
 }
 
 .sc-head{
@@ -79,6 +84,7 @@
 .ep1-sc-head{
 	background-image: url('../media/filler.jpg');
 	background-size: cover;
+	cursor: pointer;
 }
 
 .sc-head-color{
@@ -93,7 +99,7 @@
 
 .sc-head-color img{
 	width: 4.5em;
-	height: 6em;
+	height: 4.5em;
 	margin: 1em 1em 0em 3em;
 }
 
@@ -104,7 +110,6 @@
 	font-size: 2.2em;
 	background: RGBA(41, 47, 51, .35);
 	color: RGBA(255, 252, 242, 1.00);
-	cursor: pointer;
 }
 
 .sc-ul{

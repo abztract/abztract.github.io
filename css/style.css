@@ -109,7 +109,7 @@
 	padding: .2em;
 	font-size: 2.2em;
 	background: RGBA(41, 47, 51, .35);
-	color: RGBA(255, 252, 242, 1.00);
+	color: RGBA(255, 252, 242, 1.00);	
 }
 
 .sc-ul{
@@ -146,10 +146,6 @@
 	margin: .5em;
 	font-family: 'Montserrat', sans-serif;
 	border-bottom: 1.5px solid #E4572E;
-}
-
-.abt-com{
-	width: 30vw;
 }
 
 .about p{

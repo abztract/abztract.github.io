@@ -35,7 +35,7 @@
 	width: 100vw;
 	height: 2em;
 	text-align: center;
-	background: #E4572E;
+	background: #FE0300;
 	color: #EFEFEC;
 }
 
@@ -71,6 +71,11 @@
 	border-radius: 3px;
 }
 
+.ep3-sc-head{
+	background-image: url('../media/ep3sc.jpg');
+	background-size: cover;
+}
+
 .ep2-sc-head{
 	background-image: url('../media/ep2sc.jpg');
 	background-size: cover;
@@ -81,10 +86,13 @@
 	border: .001px solid RGBA(42, 43, 45, 1.00);
 }
 
+.sc-mouseover{
+	cursor: pointer;
+}
+
 .ep1-sc-head{
 	background-image: url('../media/filler.jpg');
 	background-size: cover;
-	cursor: pointer;
 }
 
 .sc-head-color{

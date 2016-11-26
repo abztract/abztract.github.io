@@ -71,6 +71,11 @@
 	border-radius: 3px;
 }
 
+.ep4-sc-head{
+	background-image: url('../media/ep4sc.jpg');
+	background-size: cover;
+}
+
 .ep3-sc-head{
 	background-image: url('../media/ep3sc.jpg');
 	background-size: cover;

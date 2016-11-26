@@ -3,6 +3,7 @@ $(document).ready(function(){
 
 	$('.ep1-sc-ul').hide();
 	$('.ep2-sc-ul').hide();
+	$('.ep3-sc-ul').hide();
 
 	$('#ep1sc').click(function(){
 		$('.ep1-sc-ul').toggle('1500');
@@ -10,6 +11,10 @@ $(document).ready(function(){
 
 	$('#ep2sc').click(function(){
 		$('.ep2-sc-ul').toggle('1500');
+	});
+
+	$('#ep3sc').click(function(){
+		$('.ep3-sc-ul').toggle('1500');
 	});
 
 

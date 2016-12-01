@@ -1,0 +1,184 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Lato', sans-serif;
+	/* new font? */
+}
+
+.h-img{
+	width: 100vw;
+	height: 20vh;
+	background: url('../media/wht-head.jpg');
+	background-size: cover;
+}
+
+.h-content{
+	width: 100vw;
+	height: 8vh;
+	background: #000;
+	padding: 1vh 0;
+}
+
+.ls-logo{
+	width: 3.3em;
+	height: 3.3em;
+	margin: 0em 1em 0em 2em;
+	float: left;
+}
+
+.home-link h1{
+	font-size: 2.6em;
+	color: #fff;
+	/* new font? */
+}
+
+.h-stripe{
+	width: 100vw;
+	height: 2em;
+	text-align: center;
+/*	background: #FF5E00;
+	color: #EFEFEC;
+
+	display: none;*/
+	background: url('../media/wht-head.jpg');
+	background-size: cover;
+
+}
+
+.mca{
+	width: 100vw;
+	background: RGBA(204, 204, 204, 1.00);
+	border-top: .001px solid #2A2B2D;
+}
+
+.mca-line{
+	width: 100%;
+	text-align: center;
+	margin-top: 2.5em;
+}
+
+.mca-line h2{
+	font-family: 'Shadows Into Light Two', cursive;
+
+}
+
+.mca-main{
+	width: 55vw;
+	display: inline-block;
+	float: left;
+}
+
+.latest-episode{
+	width: 50vw;
+	height: 23em;
+	margin: 3em auto 2em auto;
+}
+
+.show-promo{
+	width: 45vw;
+	height: 23.5em;
+	margin: 2em auto 4em auto;
+	border-radius: 2px;
+}
+
+.sc-container{
+	/*border: 2px solid RGBA(42, 43, 45, 1.00);*/
+}
+
+.sc-epi{
+	width: 50vw;
+	margin: 0 auto;
+	/*border: 2px solid RGBA(42, 43, 45, 1.00);*/
+	/*border-radius: 3px;*/
+}
+
+.sc-head{
+	border-bottom: 1px solid #000;
+	color: RGBA(255, 252, 242, 1.00);
+	background: #000;
+	border-radius: 0 0 7px 0;
+	border-bottom: 1px solid #CCCCCC;
+}
+
+.sc-head img{
+	width: 3.5em;
+	height: 3.5em;
+	margin: 1em 1em 0em 3em;
+}
+
+.sc-head h1{
+	display: inline-block;
+	margin: 0em 1.5em 1vh 0em;
+	padding: .2em;
+}
+
+.sc-ul{
+	/*background: RGBA(41, 47, 51, 1.00);*/
+	text-align: center;
+	padding: 1em;
+}
+
+.sc-ul ul{
+	list-style: none;
+}
+
+.sc-ul a{
+	text-decoration: none;
+	color: RGBA(41, 47, 51, 1.00);
+	font-size: 1.3em;
+}
+
+.sc-ul a:hover{
+	font-size: 1.5em;
+}
+
+/*about*/
+
+.contact{
+	width: 40vw;
+	text-align: center;
+	margin: 1em auto;
+}
+
+.soc-med{
+	width: 3em;
+	height: 3em;
+	margin: 2.5em auto 0 auto;
+}
+
+.sc-prev{
+	cursor: pointer;
+}
+
+.sidebar{
+	width: 35vw;
+	padding: 2.5em 0 0 4em;
+	display: inline-block;
+	margin-bottom: 1em;
+}
+
+.side-socmed{
+	width: 100%;
+	text-align: center;
+	margin-bottom: 2em;
+	display: none;
+}
+
+.sb-socmed-icon{
+	width: 3em;
+	height: 3em;
+}
+
+.footer{
+	width: 100vw;
+	height: 5vh;
+	border-top: .001px solid #2A2B2D;
+	border-bottom: .001px solid #2A2B2D;
+	padding: .7em 0;
+	background: #000;
+	text-align: center;
+}
+
+.footer p{
+	color: #EFEFEC;
+}

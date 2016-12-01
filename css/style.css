@@ -4,7 +4,7 @@
 	font-family: 'Lato', sans-serif;
 }
 
-.h-stripe{
+.h-img{
 	width: 100vw;
 	height: 20vh;
 	background: url('../media/venuestripe.jpeg');
@@ -31,7 +31,7 @@
 	/*font-family: 'Lato', sans-serif;*/
 }
 
-.headliner{
+.h-stripe{
 	width: 100vw;
 	height: 2em;
 	text-align: center;
@@ -91,7 +91,7 @@
 	border: .001px solid RGBA(42, 43, 45, 1.00);
 }
 
-.sc-mouseover{
+.sc-prev{
 	cursor: pointer;
 }
 
